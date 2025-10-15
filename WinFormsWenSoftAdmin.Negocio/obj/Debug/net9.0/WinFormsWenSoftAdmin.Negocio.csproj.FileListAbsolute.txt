@@ -1,0 +1,17 @@
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Negocio\bin\Debug\net9.0\WinFormsWenSoftAdmin.Negocio.deps.json
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Negocio\bin\Debug\net9.0\WinFormsWenSoftAdmin.Negocio.dll
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Negocio\bin\Debug\net9.0\WinFormsWenSoftAdmin.Negocio.pdb
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Negocio\bin\Debug\net9.0\WinFormsWenSoftAdmin.Datos.dll
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Negocio\bin\Debug\net9.0\WinFormsWenSoftAdmin.Entidades.dll
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Negocio\bin\Debug\net9.0\WinFormsWenSoftAdmin.Datos.pdb
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Negocio\bin\Debug\net9.0\WinFormsWenSoftAdmin.Entidades.pdb
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Negocio\obj\Debug\net9.0\WinFormsWenSoftAdmin.Negocio.csproj.AssemblyReference.cache
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Negocio\obj\Debug\net9.0\WinFormsWenSoftAdmin.Negocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Negocio\obj\Debug\net9.0\WinFormsWenSoftAdmin.Negocio.AssemblyInfoInputs.cache
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Negocio\obj\Debug\net9.0\WinFormsWenSoftAdmin.Negocio.AssemblyInfo.cs
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Negocio\obj\Debug\net9.0\WinFormsWenSoftAdmin.Negocio.csproj.CoreCompileInputs.cache
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Negocio\obj\Debug\net9.0\WinForms.3F7A913F.Up2Date
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Negocio\obj\Debug\net9.0\WinFormsWenSoftAdmin.Negocio.dll
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Negocio\obj\Debug\net9.0\refint\WinFormsWenSoftAdmin.Negocio.dll
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Negocio\obj\Debug\net9.0\WinFormsWenSoftAdmin.Negocio.pdb
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Negocio\obj\Debug\net9.0\ref\WinFormsWenSoftAdmin.Negocio.dll

@@ -1,0 +1,11 @@
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Entidades\bin\Debug\net9.0\WinFormsWenSoftAdmin.Entidades.deps.json
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Entidades\bin\Debug\net9.0\WinFormsWenSoftAdmin.Entidades.dll
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Entidades\bin\Debug\net9.0\WinFormsWenSoftAdmin.Entidades.pdb
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Entidades\obj\Debug\net9.0\WinFormsWenSoftAdmin.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Entidades\obj\Debug\net9.0\WinFormsWenSoftAdmin.Entidades.AssemblyInfoInputs.cache
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Entidades\obj\Debug\net9.0\WinFormsWenSoftAdmin.Entidades.AssemblyInfo.cs
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Entidades\obj\Debug\net9.0\WinFormsWenSoftAdmin.Entidades.csproj.CoreCompileInputs.cache
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Entidades\obj\Debug\net9.0\WinFormsWenSoftAdmin.Entidades.dll
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Entidades\obj\Debug\net9.0\refint\WinFormsWenSoftAdmin.Entidades.dll
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Entidades\obj\Debug\net9.0\WinFormsWenSoftAdmin.Entidades.pdb
+D:\Aplicaciones\WinFormsWenSoftAdmin\WinFormsWenSoftAdmin.Entidades\obj\Debug\net9.0\ref\WinFormsWenSoftAdmin.Entidades.dll

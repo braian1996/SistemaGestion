@@ -1,0 +1,237 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Aplicaciones\\WinFormsWenSoftAdmin\\WinFormsWenSoftAdmin.Negocio\\WinFormsWenSoftAdmin.Negocio.csproj": {}
+  },
+  "projects": {
+    "D:\\Aplicaciones\\WinFormsWenSoftAdmin\\WinFormsWenSoftAdmin.Datos\\WinFormsWenSoftAdmin.Datos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Aplicaciones\\WinFormsWenSoftAdmin\\WinFormsWenSoftAdmin.Datos\\WinFormsWenSoftAdmin.Datos.csproj",
+        "projectName": "WinFormsWenSoftAdmin.Datos",
+        "projectPath": "D:\\Aplicaciones\\WinFormsWenSoftAdmin\\WinFormsWenSoftAdmin.Datos\\WinFormsWenSoftAdmin.Datos.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\Aplicaciones\\WinFormsWenSoftAdmin\\WinFormsWenSoftAdmin.Datos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Fast Reports\\.NET\\2025.2.6\\FastReport .NET WEB Trial\\Nugets": {},
+          "C:\\Program Files (x86)\\Fast Reports\\.NET\\2025.2.6\\FastReport .NET WinForms Pack Trial\\Nugets": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\Aplicaciones\\WinFormsWenSoftAdmin\\WinFormsWenSoftAdmin.Entidades\\WinFormsWenSoftAdmin.Entidades.csproj": {
+                "projectPath": "D:\\Aplicaciones\\WinFormsWenSoftAdmin\\WinFormsWenSoftAdmin.Entidades\\WinFormsWenSoftAdmin.Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[9.0.6, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Aplicaciones\\WinFormsWenSoftAdmin\\WinFormsWenSoftAdmin.Entidades\\WinFormsWenSoftAdmin.Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Aplicaciones\\WinFormsWenSoftAdmin\\WinFormsWenSoftAdmin.Entidades\\WinFormsWenSoftAdmin.Entidades.csproj",
+        "projectName": "WinFormsWenSoftAdmin.Entidades",
+        "projectPath": "D:\\Aplicaciones\\WinFormsWenSoftAdmin\\WinFormsWenSoftAdmin.Entidades\\WinFormsWenSoftAdmin.Entidades.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\Aplicaciones\\WinFormsWenSoftAdmin\\WinFormsWenSoftAdmin.Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Fast Reports\\.NET\\2025.2.6\\FastReport .NET WEB Trial\\Nugets": {},
+          "C:\\Program Files (x86)\\Fast Reports\\.NET\\2025.2.6\\FastReport .NET WinForms Pack Trial\\Nugets": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Aplicaciones\\WinFormsWenSoftAdmin\\WinFormsWenSoftAdmin.Negocio\\WinFormsWenSoftAdmin.Negocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Aplicaciones\\WinFormsWenSoftAdmin\\WinFormsWenSoftAdmin.Negocio\\WinFormsWenSoftAdmin.Negocio.csproj",
+        "projectName": "WinFormsWenSoftAdmin.Negocio",
+        "projectPath": "D:\\Aplicaciones\\WinFormsWenSoftAdmin\\WinFormsWenSoftAdmin.Negocio\\WinFormsWenSoftAdmin.Negocio.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "D:\\Aplicaciones\\WinFormsWenSoftAdmin\\WinFormsWenSoftAdmin.Negocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Fast Reports\\.NET\\2025.2.6\\FastReport .NET WEB Trial\\Nugets": {},
+          "C:\\Program Files (x86)\\Fast Reports\\.NET\\2025.2.6\\FastReport .NET WinForms Pack Trial\\Nugets": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "D:\\Aplicaciones\\WinFormsWenSoftAdmin\\WinFormsWenSoftAdmin.Datos\\WinFormsWenSoftAdmin.Datos.csproj": {
+                "projectPath": "D:\\Aplicaciones\\WinFormsWenSoftAdmin\\WinFormsWenSoftAdmin.Datos\\WinFormsWenSoftAdmin.Datos.csproj"
+              },
+              "D:\\Aplicaciones\\WinFormsWenSoftAdmin\\WinFormsWenSoftAdmin.Entidades\\WinFormsWenSoftAdmin.Entidades.csproj": {
+                "projectPath": "D:\\Aplicaciones\\WinFormsWenSoftAdmin\\WinFormsWenSoftAdmin.Entidades\\WinFormsWenSoftAdmin.Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
